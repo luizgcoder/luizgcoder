@@ -50,6 +50,4 @@
   </div>
   
   ---
-  
-  ![Snake animation](https://github.com/luizgcoder/luizgcoder/blob/output/github-contribution-grid-snake.svg) <!-- (Opcional) -->
 </div>
