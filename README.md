@@ -24,15 +24,6 @@ Comecei a programar em **2017**, aos 15 anos, e desde então venho estudando e m
 
 <div align="center">
 
-  ### 📊 GitHub Stats
-
-  <a href="https://github.com/luizgcoder">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgcoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgcoder&layout=compact&langs_count=7&theme=dark" alt="Top Languages"/>
-  </a>
-
-  ---
-
   ### 🛠️ Tech Stack
 
   <!-- Web -->
